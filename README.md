@@ -1,2 +1,2 @@
-# -HDCS2023_Programming_Week-2_Lab-02a-
-HDCS2023 Programming Fundamentals Exercises Week_2 - Lab-02b
+## Higher Diploma in Computer Science 2023
+## Programming Fundamentals Week_2 - Lab-02a
